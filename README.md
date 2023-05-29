@@ -1,2 +1,2 @@
 # DIAL
-DIagonal ALternating blur implementation for RetroArch. A high performance alternative to other conventional blurs like Gaussian blur.
+DIagonal ALternating blur implementation for RetroArch. A high performance alternative to conventional blurs like Gaussian blur.
